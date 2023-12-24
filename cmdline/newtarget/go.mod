@@ -1,4 +1,4 @@
-module newtarget
+module github.com/HawkEye/newtarget
 
 go 1.21.3
 
