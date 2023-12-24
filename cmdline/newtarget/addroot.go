@@ -7,7 +7,7 @@ import (
 	"database/sql"
 	"log"
 	"os"
-	"github.com/HawkEye/logger"
+	"github.com/JA3G3R/sHawkEye/logger"
 	"github.com/go-sql-driver/mysql"
 	"github.com/joho/godotenv"
 
